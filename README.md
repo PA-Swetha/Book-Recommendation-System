@@ -1,0 +1,1 @@
+A Flask-based web app that suggests books similar to the one you search. It shows popular books with ratings, authors, and cover images, and recommends similar books using pre-trained data. The UI is built with Bootstrap for a clean and responsive design.
